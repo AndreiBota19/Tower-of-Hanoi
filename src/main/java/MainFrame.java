@@ -34,6 +34,7 @@ public class MainFrame
 
         this.initializeJogl();
 
+        this.setLocationRelativeTo(null);
         this.setVisible(true);
     }
 
